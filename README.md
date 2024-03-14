@@ -1,8 +1,8 @@
-# mlcToDoPrjTitle
+# Module#5 React Day #8 Classwork: Markdown Editor WebApp
 ![](thumbnail.png)
 
 ## Hosted Version of the Project:
-[mlcToDoPrjName](https://mlcToDoPrjName.vercel.app/)
+[m5react-day-8-classwork-markdown-editor-webapp](https://m5react-day-8-classwork-markdown-editor-webapp.vercel.app/)
 
 ## Objective
 mlcToDoObjective
