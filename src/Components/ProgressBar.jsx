@@ -41,7 +41,7 @@ export default function ProgressBar(){
   return(
     <section className="flex flex-col gap-[1rem] text-slate-300 items-center p-[2rem]">
         <h2 className="text-[2rem] font-semibold">Progress Bar</h2>
-        <div className="bg-slate-300 w-[50rem] h-[3em] rounded-full relative flex " >
+        <div className="containerProgressBar bg-slate-300 w-[50rem] h-[3em] rounded-full relative flex " >
           <div style={{width: progressBarWidth}} className={`absolute bg-yellow-300  h-[3rem] rounded-full  z-[10] `}>
           </div>
           <div className="absolute text-slate-900 text-[2rem] z-[50] left-[45%]">

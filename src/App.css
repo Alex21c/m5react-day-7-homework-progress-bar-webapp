@@ -23,3 +23,9 @@ html{
 body{
   background-color: #343d3f;
 }
+
+@media screen and (max-width:847px){
+  div.containerProgressBar{
+    width:95%;
+  }
+}
